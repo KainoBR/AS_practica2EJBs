@@ -17,12 +17,12 @@ El objetivo de esta práctica es la de implementar la capa de negocio haciendo u
 
 ### Herramientas utilizadas
 
-- Entorno de desarrollo: ![Netbeans 8.2](https://netbeans.org/downloads/8.2/rc/) (tip: instalarlo con todo)
-- Servidor y base de datos local: ![XAMPP](https://www.apachefriends.org/es/index.html)
+- Entorno de desarrollo: [Netbeans 8.2](https://netbeans.org/downloads/8.2/rc/) (tip: instalarlo con todo)
+- Servidor y base de datos local: [XAMPP](https://www.apachefriends.org/es/index.html)
 
 
 ### "Como hacer que funcione"
-*Similiar a la ![práctica 1](https://github.com/SrMiki/AS_practica1_FrontController) con diferencias en el paso 2 y 7*
+*Similiar a la [práctica 1](https://github.com/SrMiki/AS_practica1_FrontController) con diferencias en el paso 2 y 7*
 
 1) Descargar las herramientas indicadas e intalarlas:
     - Con netbeans si utilizamos la instalación con todo (all) solamente habría que activar los plugins correspondientes; si utilizas otro diferente tendrás que añadir java EE y glasfish por tu cuenta. 
@@ -55,5 +55,5 @@ El objetivo de esta práctica es la de implementar la capa de negocio haciendo u
  - Para que esta práctica pueda funcionar hay que utilizar las herramientas indicadas y cargar la base de datos
  - Revisar imports, enlaces y plugins
  - En el "Informe_practica2_AS_EJB.pdf" se detallan los diferentes apartados de la práctica
- - Base de datos: SQL utilizando ![phpmyadmin](https://www.phpmyadmin.net/)
- - Servidor: ![glashfish](https://www.oracle.com/middleware/technologies/glassfish-server.html)
+ - Base de datos: SQL utilizando [phpmyadmin](https://www.phpmyadmin.net/)
+ - Servidor: [glashfish](https://www.oracle.com/middleware/technologies/glassfish-server.html)
